@@ -1,5 +1,6 @@
 # Weed-Removal-Robot
 DEVELOPING A ROBOT THAT CAN IDENTIFY AND  REMOVE WEEDS FROM FIELDS, REDUCING THE NEED FOR HERBICIDES.
+
 The Weed Removal Robot project aims to develop a simple and eco-friendly automated 
 system to assist in weed removal for agricultural applications. The primary objective is to 
 reduce manual labor and minimise the use of chemical herbicides by employing a mechanical 
